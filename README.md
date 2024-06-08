@@ -1,5 +1,5 @@
 - 👀 I’m creating web applications
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on group projects
 
 <!---
